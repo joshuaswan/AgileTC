@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<mysql-connector>8.0.11</mysql-connector>
+		<mysql-connector>8.0.22</mysql-connector>
 		<entity.target.dir>src/main/java/</entity.target.dir>
 		<dao.resources.dir>src/main/resources/</dao.resources.dir>
 	</properties>
